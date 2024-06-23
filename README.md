@@ -6,7 +6,7 @@
      ·
     <a href="https://github.com/enna-ai/vbusy/tree/main/apps/widget">widget</a>
      ·
-    <a href="https://github.com/enna-ai/vbusy/tree/main/apps/cli">cli
+    <a href="https://github.com/vbusy-app/cli">cli
     </a>
   </p>
   <p>A versatile task management system with web and CLI interfaces</p>
